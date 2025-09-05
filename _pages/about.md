@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋Hey There"
+title: "Yulun's Homepage /👋Hey There"
 author_profile: true
 redirect_from: 
   - /about/
