@@ -6,6 +6,6 @@ permalink: false
 ---
 
 
-[<u>View File</u>]({{ "/files/Z_Factor__Copy_.pdf" | relative_url }})
+[<u>View File</u>]({{ "/home/files/Z_Factor__Copy_.pdf" | relative_url }})
 
 
