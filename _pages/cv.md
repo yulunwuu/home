@@ -13,7 +13,7 @@ Education
 ------
 University of California, Santa Barbara  
 *Bachelor of Science in Chemical Engineering, 2025*  
-<span class="text-right">GPA: 3.5</span>
+GPA: 3.5
 
 Skills
 ------
@@ -22,7 +22,8 @@ Aspen HYSYS, Python, C, Matlab, R, Mathematica, Tableau, Jupyter Notebook, Githu
 Experience
 ------
 **Research Assistant**  
-Eric McFarland’s lab, UCSB Chemical Engineering <div align="right">Jul 2024 - Mar 2025</div>
+|Eric McFarland’s lab, UCSB Chemical Engineering | Jul 2024 - Mar 2025|
+|:-----------------------------------------------|-------------------:|
 * Researched the thermochemical water-splitting process to produce green hydrogen by testing on the cycling potentials of various alkali metal oxides mixed phase
 * Performed solid state synthesis and utilized XRD to verify phase formation and reaction kinetics
 * Developed thermodynamic model characterizing the oxygen and hydrogen release steps, and conducted experiment in packed-bed and batch reactors through on-line mass spectrometry and gas chromatography
