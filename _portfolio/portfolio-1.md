@@ -6,5 +6,5 @@ permalink: false
 ---
 
 
-[<u>View File</u>](/files/files/Group 14-designreport.pdf)
+[<u>View File</u>](/files/Group 14-designreport.pdf)
 
