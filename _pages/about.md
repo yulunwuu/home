@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/home/images/homepage_pic.png" alt="Portrait of Yulun" width="150" style="border-radius:50%;">
+  <img src="/home/images/homepage_pic.png" alt="Portrait of Yulun" width="550">
 </p>
 
 👋 Hey There. I am Yulun, or you may call me Allen. 
