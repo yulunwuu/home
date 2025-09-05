@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<p align="center">
+  <img src="/images/homepage_pic.jpg" alt="Portrait of Yulun" width="250" style="border-radius:50%;">
+</p>
+
 👋 Hey There. I am Yulun, or you may call me Allen. 
 
 I am currently a fourth-year undergraduate student pursuing a B.S degree in Chemical Engineering at the University of California, Santa Barbara.
