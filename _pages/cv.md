@@ -13,7 +13,7 @@ Education
 ------
 University of California, Santa Barbara  
 *Bachelor of Science in Chemical Engineering, 2025*  
-GPA: 3.5
+<span class="text-right">GPA: 3.5</span>
 
 Skills
 ------
