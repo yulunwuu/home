@@ -45,13 +45,13 @@ Sep 2019 – Jun 2021
 
 Service and leadership
 ------
-Mermaid Treasures  
-Co-Founder  
+**Co-Founder**    
+Mermaid Treasures   
 Sep 2023 - Jun 2025
 * Launched the street vendor business in Santa Barbara, providing customers with quality pedicure products and jewelries
 * Collaborated with founding partner and managed shipment and product-makings
 
-GentleSwing Daycare, PA  
-Volunteer  
+**Volunteer**  
+GentleSwing Daycare, PA   
 2020 - 2022
 * 200+ community service hours
