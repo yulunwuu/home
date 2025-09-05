@@ -6,5 +6,6 @@ permalink: false
 ---
 
 
-[<u>View File</u>](/files/Group 14-designreport.pdf)
+[<u>View File</u>]({{ "/files/Group%2014-designreport.pdf" | relative_url }})
+
 
