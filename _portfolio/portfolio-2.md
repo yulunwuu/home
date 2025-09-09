@@ -1,7 +1,7 @@
 ---
 title: "Production of Benzene by Hydrodealkylation (HDA) of Toluene – Techno-Economic Design"
 #excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"                                                  
-excerpt: "*Wu. Y, Shen. S, Yuan. C*<br/><img src='/home/images/HDA.png' style='width:300px; height:auto;'> Designed a conceptual benzene production process (100 kta) using an adiabatic plug flow reactor. Built detailed reactor/recycle models in Python and Aspen HYSYS, integrated distillation and heat exchanger networks, and performed cost estimation. Delivered a full techno-economic analysis showing feasibility with an IRR of 40% and an NPV of ~$50M, while also addressing CO₂ emissions and process safety."
+excerpt: "*Wu. Y, Shen. S, Yuan. C*<br/><img src='/home/images/HDA.png' style='width:600px; height:auto;'><br/> Designed a conceptual benzene production process (100 kta) using an adiabatic plug flow reactor. Built detailed reactor/recycle models in Python and Aspen HYSYS, integrated distillation and heat exchanger networks, and performed cost estimation. Delivered a full techno-economic analysis showing feasibility with an IRR of 40% and an NPV of ~$50M, while also addressing CO₂ emissions and process safety."
 
 collection: portfolio
 ---
