@@ -1,7 +1,7 @@
 ---
 title: "Boundary Layer Heat Transfer – Laser Doppler Velocimetry (LDV)"
 #excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
-excerpt: "Investigated natural convection boundary layers in heated water tanks using LDV for non-invasive velocity measurements. Modeled Navier–Stokes and energy equations, validated with experimental velocity profiles at different temperatures. Enhanced understanding of fluid mechanics, heat transfer, and advanced optical diagnostics."
+excerpt: " <br/><img src='/home/images/boundary_layer.jpeg' style='width:300px; height:auto;'> Investigated natural convection boundary layers in heated water tanks using LDV for non-invasive velocity measurements. Modeled Navier–Stokes and energy equations, validated with experimental velocity profiles at different temperatures. Enhanced understanding of fluid mechanics, heat transfer, and advanced optical diagnostics."
 
 collection: portfolio
 ---
