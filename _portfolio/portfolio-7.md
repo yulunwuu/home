@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Model Predicting Apple Quality "
 #excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
-excerpt: "*Wu. Y, Wang. R, Yuan. C*Developed a machine learning model to assess apple quality based on image data. The model implements the Support Vector Regression (SVR) model and Decision Tree model to determine the factors that affect the sweetness of apples and statistically predict the sweetness of any given apple."
+excerpt: "*Wu. Y, Wang. R, Yuan. C*<br/><br/>Developed a machine learning model to assess apple quality based on image data. The model implements the Support Vector Regression (SVR) model and Decision Tree model to determine the factors that affect the sweetness of apples and statistically predict the sweetness of any given apple."
 
 collection: portfolio
 ---
