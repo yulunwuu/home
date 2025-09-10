@@ -3,18 +3,23 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-sort_by: date
-sort_order: reverse   # newest first
+
 ---
 
 {% include base_path %}
 
+{% assign dated = site.portfolio
+  | where_exp: "p", "p.date"
+  | sort: "date"
+  | reverse %}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% assign undated = site.portfolio
+  | where_exp: "p", "p.date == nil" %}
+
+{% for post in dated %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
 
-{% assign items = site.portfolio | where_exp: "i", "i.published != false" | sort: "date" | reverse %}
-{% for post in items %}
+{% for post in undated %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
