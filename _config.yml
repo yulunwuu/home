@@ -278,6 +278,9 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      show_date: false        # <- hide the Published date
+      read_time: false        # (optional) removes read-time too
+      date: ~                 # <- ensure page.date is null/falsey
   # _talks
   - scope:
       path: ""
