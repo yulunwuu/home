@@ -14,3 +14,7 @@ sort_order: reverse   # newest first
   {% include archive-single.html %}
 {% endfor %}
 
+{% assign items = site.portfolio | where_exp: "i", "i.published != false" | sort: "date" | reverse %}
+{% for post in items %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
