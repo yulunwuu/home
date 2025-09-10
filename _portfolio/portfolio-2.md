@@ -1,10 +1,12 @@
 ---
-title: "Production of Benzene by Hydrodealkylation (HDA) of Toluene – Techno-Economic Design"
-#excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"                                                  
-excerpt: "*Wu. Y, Shen. S, Yuan. C*<br/><br/><img src='/home/images/HDA.png' style='width:650px; height:auto;'> <br/> <br/>Designed a conceptual benzene production process (100 kta) using an adiabatic plug flow reactor. Built detailed reactor/recycle models in Python and Aspen HYSYS, integrated distillation and heat exchanger networks, and performed cost estimation. Delivered a full techno-economic analysis showing feasibility with an IRR of 40% and an NPV of ~$50M, while also addressing CO₂ emissions and process safety."
-
-collection: portfolio
+title: "Real Gas Behavior – Compressibility Factor via Burnett Method"
+excerpt: "*Wu. Y, Shen. S, Spann. M*<br/><br/><img src='/home/images/zfactor.jpg' style='width:400px; height:auto; margin:auto;'> <br/><br/>Measured compressibility factors (Z) and second virial coefficients of CO₂ and He between 15–35 °C using the Burnett expansion method. Analyzed deviations from ideal gas law, showing Z<1 for CO₂ and Z>1 for He, with temperature-dependent virial coefficients. Strengthened background in thermodynamics, real gas modeling, and data regression."
+collection: Portfolio
+permalink: false
 ---
 
-Designed a conceptual benzene production process (100 kta) using an adiabatic plug flow reactor. Built detailed reactor/recycle models in Python and Aspen HYSYS, integrated distillation and heat exchanger networks, and performed cost estimation. Delivered a full techno-economic analysis showing feasibility with an IRR of 40% and an NPV of ~$50M, while also addressing CO₂ emissions and process safety.
-[<u>View File</u>]({{ "/home/files/group_14_designreport.pdf" | relative_url }})
+*Wu. Y, Shen. S, Spann. M*<br/><br/>[<u>View File</u>]({{ "/home/files/Z_Factor__Copy_.pdf" | relative_url }})<br/><br/><img src='/home/images/zfactor.jpg' style='width:500px; height:auto; margin:auto;'> <br/><br/>Measured compressibility factors (Z) and second virial coefficients of CO₂ and He between 15–35 °C using the Burnett expansion method. Analyzed deviations from ideal gas law, showing Z<1 for CO₂ and Z>1 for He, with temperature-dependent virial coefficients. Strengthened background in thermodynamics, real gas modeling, and data regression.
+
+
+
+
