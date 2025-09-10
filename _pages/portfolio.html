@@ -3,13 +3,21 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-
+entries_layout: list   # <- makes the layout use list, not grid
 ---
 
 {% include base_path %}
 
+{% assign dated = site.portfolio
+  | where_exp: "p", "p.date"
+  | sort: "date"
+  | reverse %}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html show_date=false %}
+{% for post in dated %}
+  {% include archive-single.html type="list" %}
 {% endfor %}
 
+{% assign undated = site.portfolio | where_exp: "p", "p.date == nil" %}
+{% for post in undated %}
+  {% include archive-single.html type="list" %}
+{% endfor %}
