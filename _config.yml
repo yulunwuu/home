@@ -278,10 +278,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-      show_date: false      # <- flag we’ll use to hide the date
-      read_time: false      # optional: hide reading time if your layout shows it
-      date: ~               # set to null so layout treats it as absent
-      last_modified_at: ~   # also null to avoid “Modified” lines
   # _talks
   - scope:
       path: ""
